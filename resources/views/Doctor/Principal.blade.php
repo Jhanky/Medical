@@ -1,4 +1,4 @@
- @extends('layouts.layoutDoctor')
+@extends('layouts.main')
 
  @section('base')
      <div class="card shadow mb-4">

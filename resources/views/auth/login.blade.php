@@ -39,7 +39,7 @@
                                     <div class="text-center">
                                         <img src="{{ asset('img/logo.png')}}" class="img-fluid" alt="Responsive image" width="400" height="400">
                                         <br>
-                                    </div>
+                                    </div> n
                                     <br>
                                     <form method="POST" action="{{ route('login') }}">
                                         @csrf
